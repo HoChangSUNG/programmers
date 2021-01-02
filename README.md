@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
-
+<head>
+    <meta charset="UTF-8">
+</head>
 <body>
     <table border ='1' align="center">
         <tr>
@@ -51,7 +53,7 @@
             <td><a href="#">X</a></td>
             <td><a href="#">X</a></td>
         </tr>
-        
+
     </table>
 </body>
 </html>
