@@ -68,7 +68,7 @@
     </tr>
     <tr align="center">
         <td><a href="https://programmers.co.kr/learn/courses/30/lessons/42746">가장 큰수</a></td>
-        <td><a href="https://github.com/HoChangSUNG/programmers_python/blob/main/level_2/most_big_number.py">0</a></td>
+        <td><a href="https://github.com/HoChangSUNG/programmers_python/blob/main/level_2/most_big_number.py">O</a></td>
         <td><a href="#">X</a></td>
     </tr>
     <tr align="center">
