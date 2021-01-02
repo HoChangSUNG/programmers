@@ -53,7 +53,6 @@
             <td><a href="#">X</a></td>
             <td><a href="#">X</a></td>
         </tr>
-
     </table>
 </body>
 </html>
